@@ -14,9 +14,10 @@ Welcome to my GitHub profile! I’m a passionate **web developer** and an enthus
 
 ### 📫 How to Reach Me  
 - 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-- 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)  
-- 🐦 **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)  
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-profile)  
+- 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
+- 💼 **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/shamim-ahmad-772484331)  
+- 🐦 **Facebook:** [@your-twitter-handle](https://www.facebook.com/profile.php?id=100092273649975&mibextid=ZbWKwL)  
+
 
 ---
 
