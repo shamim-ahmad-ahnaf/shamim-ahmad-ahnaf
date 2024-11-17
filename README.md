@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m a passionate **web developer** and an enthus
 
 ---
 
-### 🚀 My Skills  
+### 🚀 Skills  
 - **Frontend Development:** HTML, CSS, JavaScript, React
 - **UI/UX Design:** Tailwind CSS, Bootstrap    
 - **Version Control:** Git, GitHub  
