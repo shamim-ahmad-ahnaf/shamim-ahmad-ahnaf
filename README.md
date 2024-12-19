@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I’m a passionate **web developer** and an enthus
 ---
 
 ### 📫 How to Reach Me  
-- 📧 **Email:** shamimahmadahnaf@gmail.com
+- 📧 **Email:** shamimahmad14182266@gmail.com
 - 🌐 **Portfolio:** https://shamim-ahmad-ahnaf.github.io/Portfolio/
 - 💼 **LinkedIn:** www.linkedin.com/in/shamim-ahmad-772484331
 - 🐦 **Facebook:** https://www.facebook.com/profile.php?id=100092273649975&mibextid=ZbWKwL 
